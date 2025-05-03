@@ -6,8 +6,8 @@ import axios, {
   type AxiosRequestConfig,
   type AxiosResponse,
   type AxiosError,
-} from 'C:/Users/刘超群/Desktop/node.js/my-app/node_modules/axios';
-import useUmiRequest, { UseRequestProvider } from 'C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@ahooksjs/use-request';
+} from 'C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/axios';
+import useUmiRequest, { UseRequestProvider } from 'C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@ahooksjs/use-request';
 import { ApplyPluginsType } from 'umi';
 import { getPluginManager } from '../core/plugin';
 
@@ -26,7 +26,7 @@ import {
   PaginatedOptionsWithFormat,
   PaginatedParams,
   PaginatedResult,
-} from 'C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@ahooksjs/use-request/es/types';
+} from 'C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@ahooksjs/use-request/es/types';
 
 type ResultWithData< T = any > = { data?: T; [key: string]: any };
 

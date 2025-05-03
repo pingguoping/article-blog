@@ -24,7 +24,7 @@ export default () => {
         if (res.data.status === 200) {
             localStorage.setItem('token', res.data.token)
             localStorage.setItem('userInfo', JSON.stringify(res.data.userinfo))
-            message.success('登录成功')
+            message.success('登录成功');
             window.location.href = '/home'
         }
     }

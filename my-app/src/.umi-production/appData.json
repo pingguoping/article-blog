@@ -1,5 +1,5 @@
 {
-  "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+  "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
   "pkg": {
     "private": true,
     "author": "269047901 <269047901@qq.com>",
@@ -29,7 +29,7 @@
       "typescript": "^5.0.3"
     }
   },
-  "pkgPath": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\package.json",
+  "pkgPath": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\package.json",
   "plugins": {
     "./node_modules/@umijs/core/dist/service/servicePlugin": {
       "config": {},
@@ -39,8 +39,8 @@
       },
       "enableBy": "register",
       "type": "preset",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/core/dist/service/servicePlugin.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/core/dist/service/servicePlugin.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/core/dist/service/servicePlugin",
       "key": "servicePlugin"
     },
@@ -48,12 +48,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 49
+        "register": 14
       },
       "enableBy": "register",
       "type": "preset",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/index.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/index.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "@umijs/preset-umi",
       "key": "umi"
     },
@@ -61,12 +61,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 13
+        "register": 6
       },
       "enableBy": "register",
       "type": "preset",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/max/dist/preset.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/max/dist/preset.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/max/dist/preset",
       "key": "preset"
     },
@@ -78,12 +78,12 @@
             0
           ]
         },
-        "register": 6
+        "register": 4
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/registerMethods.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/registerMethods.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/registerMethods",
       "key": "registerMethods"
     },
@@ -92,15 +92,15 @@
       "time": {
         "hooks": {
           "onStart": [
-            1
+            2
           ]
         },
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/did-you-know/dist/plugin.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/did-you-know/dist/plugin.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "@umijs/did-you-know",
       "key": "umijsDidYouKnow"
     },
@@ -112,12 +112,12 @@
             0
           ]
         },
-        "register": 2
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/404/404.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/404/404.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/404/404",
       "key": "404"
     },
@@ -126,15 +126,15 @@
       "time": {
         "hooks": {
           "modifyAppData": [
-            26
+            25
           ]
         },
-        "register": 38
+        "register": 27
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/appData/appData.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/appData/appData.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/appData/appData",
       "key": "appData"
     },
@@ -146,8 +146,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/appData/umiInfo.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/appData/umiInfo.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/appData/umiInfo",
       "key": "umiInfo"
     },
@@ -159,15 +159,15 @@
             0
           ],
           "onCheck": [
-            0
+            1
           ]
         },
-        "register": 2
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/check/check.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/check/check.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/check/check",
       "key": "check"
     },
@@ -183,8 +183,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/check/babel722.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/check/babel722.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/check/babel722",
       "key": "babel722"
     },
@@ -192,12 +192,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/codeSplitting/codeSplitting.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/codeSplitting/codeSplitting.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/codeSplitting/codeSplitting",
       "key": "codeSplitting"
     },
@@ -209,12 +209,12 @@
             0
           ]
         },
-        "register": 18
+        "register": 10
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/configPlugins/configPlugins.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/configPlugins/configPlugins.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/configPlugins/configPlugins",
       "key": "configPlugins"
     },
@@ -1033,10 +1033,10 @@
       "config": {
         "default": {
           "umi": "@@/exports",
-          "react": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\react",
-          "react-dom": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\react-dom",
-          "react-router": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\react-router",
-          "react-router-dom": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\react-router-dom"
+          "react": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\react",
+          "react-dom": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\react-dom",
+          "react-router": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\react-router",
+          "react-router-dom": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\react-router-dom"
         }
       },
       "type": "plugin",
@@ -1054,8 +1054,8 @@
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/crossorigin/crossorigin.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/crossorigin/crossorigin.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/crossorigin/crossorigin",
       "key": "crossorigin"
     },
@@ -1067,12 +1067,12 @@
             1
           ]
         },
-        "register": 2
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/depsOnDemand/depsOnDemand.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/depsOnDemand/depsOnDemand.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/depsOnDemand/depsOnDemand",
       "key": "depsOnDemand"
     },
@@ -1084,8 +1084,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/devTool/devTool.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/devTool/devTool.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/devTool/devTool",
       "key": "devTool"
     },
@@ -1093,12 +1093,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 123
+        "register": 97
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/esbuildHelperChecker/esbuildHelperChecker.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/esbuildHelperChecker/esbuildHelperChecker.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/esbuildHelperChecker/esbuildHelperChecker",
       "key": "esbuildHelperChecker"
     },
@@ -1106,12 +1106,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 193
+        "register": 105
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/esmi/esmi.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/esmi/esmi.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/esmi/esmi",
       "key": "esmi"
     },
@@ -1119,12 +1119,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 23
+        "register": 14
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/exportStatic/exportStatic.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/exportStatic/exportStatic.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/exportStatic/exportStatic",
       "key": "exportStatic"
     },
@@ -1136,12 +1136,12 @@
             0
           ]
         },
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/favicons/favicons.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/favicons/favicons.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/favicons/favicons",
       "key": "favicons"
     },
@@ -1149,12 +1149,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/helmet/helmet.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/helmet/helmet.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/helmet/helmet",
       "key": "helmet"
     },
@@ -1162,12 +1162,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 2
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/icons/icons.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/icons/icons.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/icons/icons",
       "key": "icons"
     },
@@ -1175,11 +1175,11 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 50
+        "register": 47
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/mock/mock.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/mock/mock.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/mock/mock",
       "key": "mock"
     },
@@ -1187,12 +1187,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 2
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/mpa/mpa.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/mpa/mpa.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/mpa/mpa",
       "key": "mpa"
     },
@@ -1203,8 +1203,8 @@
         "register": 1
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/okam/okam.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/okam/okam.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/okam/okam",
       "key": "okam"
     },
@@ -1216,8 +1216,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/overrides/overrides.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/overrides/overrides.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/overrides/overrides",
       "key": "overrides"
     },
@@ -1229,8 +1229,8 @@
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/phantomDependency/phantomDependency.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/phantomDependency/phantomDependency.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/phantomDependency/phantomDependency",
       "key": "phantomDependency"
     },
@@ -1242,11 +1242,11 @@
             1
           ]
         },
-        "register": 3
+        "register": 4
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/polyfill/polyfill.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/polyfill/polyfill.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/polyfill/polyfill",
       "key": "polyfill"
     },
@@ -1254,12 +1254,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/polyfill/publicPathPolyfill.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/polyfill/publicPathPolyfill.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/polyfill/publicPathPolyfill",
       "key": "publicPathPolyfill"
     },
@@ -1271,8 +1271,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/prepare/prepare.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/prepare/prepare.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/prepare/prepare",
       "key": "prepare"
     },
@@ -1280,12 +1280,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/routePrefetch/routePrefetch.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/routePrefetch/routePrefetch.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/routePrefetch/routePrefetch",
       "key": "routePrefetch"
     },
@@ -1297,8 +1297,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/terminal/terminal.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/terminal/terminal.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/terminal/terminal",
       "key": "terminal"
     },
@@ -1306,12 +1306,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 7
+        "register": 5
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/tmpFiles/tmpFiles.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/tmpFiles/tmpFiles.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/tmpFiles/tmpFiles",
       "key": "tmpFiles"
     },
@@ -1319,12 +1319,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 2
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/clientLoader/clientLoader.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/clientLoader/clientLoader.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/clientLoader/clientLoader",
       "key": "clientLoader"
     },
@@ -1332,11 +1332,11 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/routeProps/routeProps.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/routeProps/routeProps.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/routeProps/routeProps",
       "key": "routeProps"
     },
@@ -1344,12 +1344,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 6
+        "register": 3
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/ssr/ssr.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/ssr/ssr.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/ssr/ssr",
       "key": "ssr"
     },
@@ -1357,12 +1357,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 5
+        "register": 3
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/tmpFiles/configTypes.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/tmpFiles/configTypes.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/tmpFiles/configTypes",
       "key": "configTypes"
     },
@@ -1370,12 +1370,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 6
+        "register": 5
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/transform/transform.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/transform/transform.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/transform/transform",
       "key": "transform"
     },
@@ -1383,12 +1383,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 41
+        "register": 3
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/lowImport/lowImport.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/lowImport/lowImport.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/lowImport/lowImport",
       "key": "lowImport"
     },
@@ -1400,8 +1400,8 @@
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/vite/vite.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/vite/vite.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/vite/vite",
       "key": "vite"
     },
@@ -1409,11 +1409,11 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 11
+        "register": 7
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/apiRoute/apiRoute.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/apiRoute/apiRoute.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/apiRoute/apiRoute",
       "key": "apiRoute"
     },
@@ -1421,12 +1421,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 34
+        "register": 28
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/monorepo/redirect.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/monorepo/redirect.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/monorepo/redirect",
       "key": "monorepoRedirect"
     },
@@ -1437,8 +1437,8 @@
         "register": 2
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/test/test.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/test/test.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/test/test",
       "key": "test"
     },
@@ -1449,8 +1449,8 @@
         "register": 1
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/clickToComponent/clickToComponent.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/clickToComponent/clickToComponent.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/clickToComponent/clickToComponent",
       "key": "clickToComponent"
     },
@@ -1462,8 +1462,8 @@
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/legacy/legacy.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/legacy/legacy.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/legacy/legacy",
       "key": "legacy"
     },
@@ -1471,12 +1471,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/classPropertiesLoose/classPropertiesLoose.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/classPropertiesLoose/classPropertiesLoose.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/classPropertiesLoose/classPropertiesLoose",
       "key": "classPropertiesLoose"
     },
@@ -1484,11 +1484,11 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 1
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/webpack/webpack.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/webpack/webpack.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/webpack/webpack",
       "key": "preset-umi:webpack"
     },
@@ -1504,8 +1504,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/swc/swc.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/swc/swc.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/swc/swc",
       "key": "swc"
     },
@@ -1513,11 +1513,11 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 5
+        "register": 4
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/ui/ui.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/ui/ui.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/ui/ui",
       "key": "ui"
     },
@@ -1525,12 +1525,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 2
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/mako/mako.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/mako/mako.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/mako/mako",
       "key": "mako"
     },
@@ -1538,11 +1538,11 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 4
+        "register": 3
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/hmrGuardian/hmrGuardian.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/hmrGuardian/hmrGuardian.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/hmrGuardian/hmrGuardian",
       "key": "hmrGuardian"
     },
@@ -1550,11 +1550,11 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 2
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/routePreloadOnLoad/routePreloadOnLoad.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/routePreloadOnLoad/routePreloadOnLoad.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/routePreloadOnLoad/routePreloadOnLoad",
       "key": "routePreloadOnLoad"
     },
@@ -1566,8 +1566,8 @@
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/features/forget/forget.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/features/forget/forget.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/features/forget/forget",
       "key": "forget"
     },
@@ -1575,12 +1575,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 17
+        "register": 13
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/build.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/build.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/build",
       "key": "build"
     },
@@ -1588,12 +1588,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 53
+        "register": 49
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/config/config.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/config/config.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/config/config",
       "key": "config"
     },
@@ -1601,11 +1601,11 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 70
+        "register": 36
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/dev/dev.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/dev/dev.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/dev/dev",
       "key": "dev"
     },
@@ -1617,8 +1617,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/help.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/help.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/help",
       "key": "help"
     },
@@ -1630,8 +1630,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/lint.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/lint.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/lint",
       "key": "lint"
     },
@@ -1643,8 +1643,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/setup.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/setup.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/setup",
       "key": "setup"
     },
@@ -1652,12 +1652,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/deadcode.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/deadcode.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/deadcode",
       "key": "deadcode"
     },
@@ -1665,12 +1665,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/version.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/version.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/version",
       "key": "version"
     },
@@ -1682,8 +1682,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/page.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/page.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/generators/page",
       "key": "generator:page"
     },
@@ -1691,12 +1691,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/prettier.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/prettier.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/generators/prettier",
       "key": "generator:prettier"
     },
@@ -1708,8 +1708,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/tsconfig.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/tsconfig.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/generators/tsconfig",
       "key": "generator:tsconfig"
     },
@@ -1721,8 +1721,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/jest.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/jest.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/generators/jest",
       "key": "generator:jest"
     },
@@ -1734,8 +1734,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/tailwindcss.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/tailwindcss.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/generators/tailwindcss",
       "key": "generator:tailwindcss"
     },
@@ -1743,12 +1743,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/dva.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/dva.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/generators/dva",
       "key": "generator:dva"
     },
@@ -1756,12 +1756,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/component.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/component.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/generators/component",
       "key": "generator:component"
     },
@@ -1773,8 +1773,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/mock.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/mock.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/generators/mock",
       "key": "generator:mock"
     },
@@ -1786,8 +1786,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/cypress.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/cypress.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/generators/cypress",
       "key": "generator:cypress"
     },
@@ -1795,12 +1795,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/api.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/api.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/generators/api",
       "key": "generator:api"
     },
@@ -1812,8 +1812,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/precommit.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/generators/precommit.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/generators/precommit",
       "key": "generator:precommit"
     },
@@ -1825,8 +1825,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/plugin.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/plugin.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/plugin",
       "key": "command:plugin"
     },
@@ -1838,8 +1838,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/verify-commit.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/verify-commit.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/verify-commit",
       "key": "verifyCommit"
     },
@@ -1847,12 +1847,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 26
+        "register": 32
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/preview.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/preview.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/preview",
       "key": "preview"
     },
@@ -1864,8 +1864,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/preset-umi/dist/commands/mfsu/mfsu.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/preset-umi/dist/commands/mfsu/mfsu.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/preset-umi/dist/commands/mfsu/mfsu",
       "key": "mfsu-cli"
     },
@@ -1873,12 +1873,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 4
+        "register": 3
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugin-run/dist/index.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugin-run/dist/index.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "@umijs/plugin-run",
       "key": "run"
     },
@@ -1886,12 +1886,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 2
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/access.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/access.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/access",
       "key": "access"
     },
@@ -1901,11 +1901,11 @@
       },
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/analytics.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/analytics.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/analytics",
       "key": "analytics"
     },
@@ -1914,17 +1914,17 @@
       "time": {
         "hooks": {
           "modifyConfig": [
-            8
+            5
           ],
           "modifyAppData": [
-            0
+            1
           ]
         },
-        "register": 8
+        "register": 6
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/antd.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/antd.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/antd",
       "key": "antd"
     },
@@ -1932,12 +1932,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 12
+        "register": 8
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/dva.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/dva.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/dva",
       "key": "dva"
     },
@@ -1945,12 +1945,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/initial-state.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/initial-state.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/initial-state",
       "key": "initialState"
     },
@@ -1970,12 +1970,12 @@
             0
           ]
         },
-        "register": 5
+        "register": 3
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/layout.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/layout.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/layout",
       "key": "layout"
     },
@@ -1983,12 +1983,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 4
+        "register": 3
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/locale.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/locale.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/locale",
       "key": "locale"
     },
@@ -1996,12 +1996,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 4
+        "register": 2
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/mf.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/mf.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/mf",
       "key": "mf"
     },
@@ -2013,8 +2013,8 @@
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/model.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/model.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/model",
       "key": "model"
     },
@@ -2022,12 +2022,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/moment2dayjs.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/moment2dayjs.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/moment2dayjs",
       "key": "moment2dayjs"
     },
@@ -2035,12 +2035,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/qiankun.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/qiankun.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/qiankun",
       "key": "qiankun"
     },
@@ -2051,8 +2051,8 @@
         "register": 2
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/qiankun/master.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/qiankun/master.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/qiankun/master",
       "key": "qiankun-master"
     },
@@ -2063,8 +2063,8 @@
         "register": 2
       },
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/qiankun/slave.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/qiankun/slave.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/qiankun/slave",
       "key": "qiankun-slave"
     },
@@ -2076,8 +2076,8 @@
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/react-query.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/react-query.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/react-query",
       "key": "reactQuery"
     },
@@ -2089,8 +2089,8 @@
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/request.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/request.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/request",
       "key": "request"
     },
@@ -2098,12 +2098,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 1
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/styled-components.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/styled-components.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/styled-components",
       "key": "styledComponents"
     },
@@ -2111,12 +2111,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/tailwindcss.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/tailwindcss.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/tailwindcss",
       "key": "tailwindcss"
     },
@@ -2128,8 +2128,8 @@
       },
       "enableBy": "config",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/plugins/dist/valtio.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/plugins/dist/valtio.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/plugins/dist/valtio",
       "key": "valtio"
     },
@@ -2145,8 +2145,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/max/dist/plugins/maxAlias.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/max/dist/plugins/maxAlias.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/max/dist/plugins/maxAlias",
       "key": "maxAlias"
     },
@@ -2162,8 +2162,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/max/dist/plugins/maxAppData.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/max/dist/plugins/maxAppData.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/max/dist/plugins/maxAppData",
       "key": "maxAppData"
     },
@@ -2179,8 +2179,8 @@
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/max/dist/plugins/maxChecker.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/max/dist/plugins/maxChecker.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/max/dist/plugins/maxChecker",
       "key": "maxChecker"
     },
@@ -2188,12 +2188,12 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
-      "path": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@umijs/core/dist/service/generatePlugin.js",
-      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app",
+      "path": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@umijs/core/dist/service/generatePlugin.js",
+      "cwd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app",
       "id": "./node_modules/@umijs/core/dist/service/generatePlugin",
       "key": "generatePlugin"
     }
@@ -2224,7 +2224,7 @@
         "layout": false
       },
       {
-        "name": "文章管理",
+        "name": "文章分类",
         "path": "/home",
         "component": "./Home"
       }
@@ -2237,11 +2237,15 @@
       "/my": {
         "target": "http://127.0.0.1:3000",
         "changeOrigin": true
+      },
+      "/article": {
+        "target": "http://127.0.0.1:3000",
+        "changeOrigin": true
       }
     },
     "npmClient": "yarn"
   },
-  "mainConfigFile": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\.umirc.ts",
+  "mainConfigFile": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\.umirc.ts",
   "config": {
     "routeLoader": {
       "moduleType": "esm"
@@ -2261,14 +2265,14 @@
     "autoCSSModules": true,
     "alias": {
       "umi": "@@/exports",
-      "react": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\react",
-      "react-dom": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\react-dom",
-      "react-router": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\react-router",
-      "react-router-dom": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\react-router-dom",
-      "@": "C:/Users/刘超群/Desktop/node.js/my-app/src",
-      "@@": "C:/Users/刘超群/Desktop/node.js/my-app/src/.umi-production",
-      "regenerator-runtime": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\regenerator-runtime",
-      "antd": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\antd",
+      "react": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\react",
+      "react-dom": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\react-dom",
+      "react-router": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\react-router",
+      "react-router-dom": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\react-router-dom",
+      "@": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/src",
+      "@@": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/src/.umi-production",
+      "regenerator-runtime": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\regenerator-runtime",
+      "antd": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\antd",
       "@umijs/max": "@@/exports"
     },
     "antd": {},
@@ -2291,7 +2295,7 @@
         "layout": false
       },
       {
-        "name": "文章管理",
+        "name": "文章分类",
         "path": "/home",
         "component": "./Home"
       }
@@ -2302,6 +2306,10 @@
         "changeOrigin": true
       },
       "/my": {
+        "target": "http://127.0.0.1:3000",
+        "changeOrigin": true
+      },
+      "/article": {
         "target": "http://127.0.0.1:3000",
         "changeOrigin": true
       }
@@ -3241,26 +3249,26 @@
       "absPath": "/login",
       "__content": "import { login } from '@/services/user/api';\r\nimport {\r\n\r\n    LockOutlined,\r\n\r\n    UserOutlined,\r\n\r\n} from '@ant-design/icons';\r\nimport {\r\n    LoginForm,\r\n    ProConfigProvider,\r\n    ProFormText,\r\n\r\n} from '@ant-design/pro-components';\r\nimport { message, theme } from 'antd';\r\n\r\n\r\n\r\n\r\nexport default () => {\r\n    const { token } = theme.useToken();\r\n    const handleSubmit = async (values: API.LoginParams) => {\r\n        const res = await login({ ...values });\r\n        if (res.data.status === 200) {\r\n            localStorage.setItem('token', res.data.token)\r\n            localStorage.setItem('userInfo', JSON.stringify(res.data.userinfo))\r\n            message.success('登录成功')\r\n            window.location.href = '/home'\r\n        }\r\n    }\r\n\r\n    return (\r\n        <ProConfigProvider hashed={false}>\r\n            <div style={{ backgroundColor: token.colorBgContainer }}>\r\n                <LoginForm\r\n                    logo=\"\"\r\n                    title=\"\"\r\n                    subTitle=\"\"\r\n                    onFinish={async (values) => {\r\n                        await handleSubmit(values as API.LoginParams);\r\n                    }}\r\n                >\r\n                    <ProFormText\r\n                        name=\"username\"\r\n                        fieldProps={{\r\n                            size: 'large',\r\n                            prefix: <UserOutlined className={'prefixIcon'} />,\r\n                        }}\r\n                        placeholder={''}\r\n                        rules={[\r\n                            {\r\n                                required: true,\r\n                                message: '请输入用户名!',\r\n                            },\r\n                        ]}\r\n                    />\r\n                    <ProFormText.Password\r\n                        name=\"password\"\r\n                        fieldProps={{\r\n                            size: 'large',\r\n                            prefix: <LockOutlined className={'prefixIcon'} />,\r\n\r\n\r\n                        }}\r\n                        placeholder={''}\r\n                        rules={[\r\n                            {\r\n                                required: true,\r\n                                message: '请输入密码！',\r\n                            },\r\n                        ]}\r\n                    />\r\n                </LoginForm>\r\n            </div>\r\n        </ProConfigProvider>\r\n    );\r\n};",
       "__isJSFile": true,
-      "__absFile": "C:/Users/刘超群/Desktop/node.js/my-app/src/pages/Login/index.tsx"
+      "__absFile": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/src/pages/Login/index.tsx"
     },
     "3": {
-      "name": "文章管理",
+      "name": "文章分类",
       "path": "/home",
       "file": "@/pages/Home/index.tsx",
       "parentId": "ant-design-pro-layout",
       "id": "3",
       "absPath": "/home",
-      "__content": "\n// import { PageContainer } from '@ant-design/pro-components';\n// import styles from './index.less';\n\n// const HomePage: React.FC = () => {\n\n//   return (\n//     <PageContainer ghost header={{\n//       title: '',\n//     }}>\n     \n//     </PageContainer>\n//   );\n// };\n\n// export default HomePage;\n\nimport type { ActionType } from '@ant-design/pro-table';\nimport ProTable, { ProColumns } from '@ant-design/pro-table';\nimport React, { useRef } from 'react';\n\nimport { Button, Popconfirm, Space } from 'antd';\nimport { PlusOutlined } from '@ant-design/icons';\n\nconst Index: React.FC = () => {\n  const actionRef = useRef<ActionType>();\n\n  const getData = async (params: any) => {};\n  const columns: ProColumns[] = [\n    {\n      title: 'id',\n      dataIndex: 'index',\n      valueType: 'index',\n      align: 'center',\n    },\n    {\n        title: '标题',\n        dataIndex: '',\n        hideInTable:true,\n        hideInSearch:true\n\n      },\n      {\n        title: '分类',\n        dataIndex: '',\n        hideInTable:true,\n        hideInSearch:true\n      },\n    {\n      title: '内容',\n      dataIndex: '',\n      align: 'center',\n      hideInSearch:true\n    },\n   \n\n    {\n      title: '创建人',\n      dataIndex: '',\n      align: 'center',\n      hideInSearch:true\n    },\n    {\n      title: '创建时间',\n      dataIndex: '',\n      align: 'center',\n      hideInSearch:true\n    },\n    {\n      title: '更新时间',\n      dataIndex: '',\n      align: 'center',\n      hideInSearch:true\n    },\n\n    {\n      title: '操作',\n      key: 'option',\n      valueType: 'option',\n      fixed: 'right',\n      align: 'center',\n      render: (_, records) => {\n        return (\n          <Space>\n            <Button key=\"\" type=\"link\" size=\"small\" onClick={() => {}}>\n              编辑\n            </Button>\n            ,\n            <Popconfirm\n              placement=\"top\"\n              title=\"是否删除该条数据\"\n              key=\"delete\"\n              onConfirm={() => {\n                // handleDelete({ id: records.id });\n              }}\n            >\n              <Button type=\"link\" size=\"small\">\n                删除\n              </Button>\n            </Popconfirm>\n            ,\n          </Space>\n        );\n      },\n    },\n  ];\n\n  return (\n    <ProTable<any>\n      actionRef={actionRef}\n      request={getData}\n      rowKey=\"id\"\n      columns={columns}\n      pagination={{\n        pageSize: 10,\n      }}\n      search={false}\n      headerTitle={\n        <Space>\n          <Button\n            type=\"primary\"\n            key=\"add\"\n            onClick={() => {\n              \n            }}\n          >\n            <PlusOutlined /> 新建\n          </Button>\n        </Space>\n      }\n    />\n  );\n};\n\nexport default Index;\n\n",
+      "__content": "\n// import { PageContainer } from '@ant-design/pro-components';\n// import styles from './index.less';\n\n// const HomePage: React.FC = () => {\n\n//   return (\n//     <PageContainer ghost header={{\n//       title: '',\n//     }}>\n\n//     </PageContainer>\n//   );\n// };\n\n// export default HomePage;\n\nimport type { ActionType } from '@ant-design/pro-table';\nimport ProTable, { ProColumns } from '@ant-design/pro-table';\nimport React, { useRef } from 'react';\n\nimport { Button, Popconfirm, Space } from 'antd';\nimport { PlusOutlined } from '@ant-design/icons';\nimport { getArticleTypeList } from '@/services/article/api';\nimport ChangeModal from './component/ChangeModal';\n\nconst Index: React.FC = () => {\n  const [openChangeModal, setOpenChangeModal] = React.useState(false);\n  const actionRef = useRef<ActionType>();\n\n  const getData = async (params: any) => {\n    const res = await getArticleTypeList({ ...params, pages: params.current })\n    if (res.data.status === 200) {\n      return {\n        data: res.data.data.list,\n        total: res.data.data.total,\n        success: true,\n      };\n    }\n  };\n  const columns: ProColumns[] = [\n    {\n      title: 'id',\n      dataIndex: 'index',\n      valueType: 'index',\n      align: 'center',\n    },\n    {\n      title: '名称',\n      dataIndex: 'name',\n      hideInSearch: true\n    },\n    {\n      title: '类型',\n      dataIndex: 'type',\n      hideInSearch: true\n\n    },\n    {\n      title: '操作',\n      key: 'option',\n      valueType: 'option',\n      fixed: 'right',\n      align: 'center',\n      render: (_, records) => {\n        return (\n          <Space>\n            <Button key=\"\" type=\"link\" size=\"small\" onClick={() => { }}>\n              编辑\n            </Button>\n            ,\n            <Popconfirm\n              placement=\"top\"\n              title=\"是否删除该条数据\"\n              key=\"delete\"\n              onConfirm={() => {\n                // handleDelete({ id: records.id });\n              }}\n            >\n              <Button type=\"link\" size=\"small\">\n                删除\n              </Button>\n            </Popconfirm>\n            ,\n          </Space>\n        );\n      },\n    },\n  ];\n\n  return (\n    <>\n      <ProTable<any>\n        actionRef={actionRef}\n        request={getData}\n        rowKey=\"id\"\n        columns={columns}\n        pagination={{\n          pageSize: 10,\n        }}\n        search={false}\n        headerTitle={\n          <Space>\n            <Button\n              type=\"primary\"\n              key=\"add\"\n              onClick={() => {\n                setOpenChangeModal(true);\n              }}\n            >\n              <PlusOutlined /> 新建\n            </Button>\n          </Space>\n        }\n      />\n      {openChangeModal ? <ChangeModal open={openChangeModal} onCancel={() => { setOpenChangeModal(false) }} onSubmit={() => {\n        setOpenChangeModal(false)\n        actionRef.current?.reload()\n      }} /> : null}\n    </>\n  );\n};\n\nexport default Index;\n\n",
       "__isJSFile": true,
-      "__absFile": "C:/Users/刘超群/Desktop/node.js/my-app/src/pages/Home/index.tsx"
+      "__absFile": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/src/pages/Home/index.tsx"
     },
     "ant-design-pro-layout": {
       "id": "ant-design-pro-layout",
       "path": "/",
-      "file": "C:/Users/刘超群/Desktop/node.js/my-app/src/.umi-production/plugin-layout/Layout.tsx",
+      "file": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/src/.umi-production/plugin-layout/Layout.tsx",
       "absPath": "/",
       "isLayout": true,
-      "__absFile": "C:/Users/刘超群/Desktop/node.js/my-app/src/.umi-production/plugin-layout/Layout.tsx"
+      "__absFile": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/src/.umi-production/plugin-layout/Layout.tsx"
     }
   },
   "apiRoutes": {},
@@ -3280,14 +3288,14 @@
   },
   "react": {
     "version": "18.3.1",
-    "path": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\react"
+    "path": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\react"
   },
   "react-dom": {
     "version": "18.3.1",
-    "path": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\react-dom"
+    "path": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\react-dom"
   },
   "appJS": {
-    "path": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\src\\app.ts",
+    "path": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\src\\app.ts",
     "exports": [
       "request",
       "getInitialState",
@@ -3299,7 +3307,9 @@
   "globalJS": [],
   "overridesCSS": [],
   "bundler": "webpack",
-  "git": {},
+  "git": {
+    "originUrl": "https://github.com/pingguoping/article-blog.git"
+  },
   "framework": "react",
   "typescript": {
     "tsVersion": "5.8.3",
@@ -3307,11 +3317,11 @@
   },
   "faviconFiles": [],
   "antd": {
-    "pkgPath": "C:\\Users\\刘超群\\Desktop\\node.js\\my-app\\node_modules\\antd",
+    "pkgPath": "C:\\Users\\刘超群\\Desktop\\node.js\\article-blog\\my-app\\node_modules\\antd",
     "version": "5.24.9"
   },
   "pluginLayout": {
-    "pkgPath": "C:/Users/刘超群/Desktop/node.js/my-app/node_modules/@ant-design/pro-components",
+    "pkgPath": "C:/Users/刘超群/Desktop/node.js/article-blog/my-app/node_modules/@ant-design/pro-components",
     "version": "2.8.7"
   }
 }
